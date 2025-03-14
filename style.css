@@ -344,8 +344,8 @@ body{
        text-align: center;
 }} 
 /* mobile phone */
-@media(max-width: 500px){
-    html{font-size: 60% ;}
+@media(max-width: 480px){
+    html{font-size: 580% ;}
     .simply-countdown > .simply-section {
         padding:30px;
         margin:3px;
